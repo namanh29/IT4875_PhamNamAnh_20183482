@@ -3,6 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Android/CalculatorApp/app/src/main/res/drawable/button_background.xml" value="0.2203125" />
+        <entry key="..\:/Android/CalculatorApp/app/src/main/res/drawable/ic_backspace_svgrepo_com.xml" value="0.2203125" />
+        <entry key="..\:/Android/CalculatorApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2203125" />
+        <entry key="..\:/Android/CalculatorApp/app/src/main/res/drawable/ic_minus_svgrepo_com.xml" value="0.2203125" />
+        <entry key="..\:/Android/CalculatorApp/app/src/main/res/drawable/ic_plus_svgrepo_com.xml" value="0.2203125" />
+        <entry key="..\:/Android/CalculatorApp/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/Flutter/CalculatorApp/app/src/main/res/drawable/button_background.xml" value="0.2203125" />
         <entry key="..\:/Flutter/CalculatorApp/app/src/main/res/drawable/ic_backspace_svgrepo_com.xml" value="0.2203125" />
         <entry key="..\:/Flutter/CalculatorApp/app/src/main/res/drawable/ic_baseline_backspace_24.xml" value="0.2203125" />
